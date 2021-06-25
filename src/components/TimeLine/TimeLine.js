@@ -52,7 +52,7 @@ const Timeline = () => {
       <SectionText>
          Hello👋, I'm Madhu Saini👩 A middler at <a href="https://ckpcet.ac.in/"> <b>CKPCET</b>, Surat</a> pursuing BE in Computer Engineering👩‍💻. I am an enthusiastic👀 and a person take up new challenges🎯 and learn new skills⚙️. I love💛 meeting new people👩🏽‍🚀, exchanging ideas💡 and spreading knowledge🗂 and positivity🌈.<br/><br/>
          <ul>
-            <li><strong>BE(Computer Engineering):</strong><p><i>C.K.Pithawala COllege of Engineering and Technology,Surat</i></p></li><br/>
+            <li><strong>BE(Computer Engineering):</strong><p><i>C.K.Pithawala College of Engineering and Technology,Surat</i></p></li><br/>
             <li><strong>12th:</strong><p><i>Gyanjyot Vidyalaya,Surat</i></p></li><br/>
             <li><strong>10th:</strong><p><i>RadheyShyam English School,Surat</i></p></li>
             
