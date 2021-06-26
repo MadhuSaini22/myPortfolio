@@ -1,3 +1,4 @@
 ## Personal Portfolio
 
-![Portfolio Website](https://madhusaini.netlify.app/)
+Checkout my portfolio here ;D
+https://madhusaini.netlify.app/
